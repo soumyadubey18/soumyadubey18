@@ -1,5 +1,14 @@
 # 💫 About Me:
-AWS Cloud & DevOps Trainee | Software Developer | Linux | AWS | Terraform<br>I'm a Software Developer with professional experience in React.js, Node.js, REST APIs, API testing, Postman, Swagger and JIRA.<br><br>I'm currently transitioning into AWS Cloud & DevOps through hands-on training at Besant Technologies, Bengaluru.
+I’m a Software Developer transitioning into Cloud & DevOps, with hands-on experience in AWS, Linux, Python, Git/GitHub, Docker, Terraform, and CI/CD fundamentals.
+
+I enjoy building practical infrastructure and automation projects, troubleshooting systems, and learning how applications move from development to reliable production environments.
+
+Currently working on INFRAFORENSICS, an infrastructure state reconstruction and incident-forensics project focused on infrastructure history, change detection, and Infrastructure DNA.
+
+Tech I work with:
+AWS Linux Python Bash Git GitHub Docker Terraform GitHub Actions React Node.js REST APIs SQLite
+
+🎯 Goal: Build reliable, observable, and automation-driven infrastructure while growing toward a Cloud/DevOps/SRE role.
 
 
 ## 🌐 Socials:
