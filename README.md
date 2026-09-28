@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Software Developer transitioning into Cloud & DevOps, with hands-on experience in AWS, Linux, Python, Git/GitHub, Docker, Terraform, and CI/CD fundamentals.
+I’m a Software Developer transitioning into Cloud & DevOps, with hands-on experience in AWS, Linux, Python, Git/GitHub, Docker, Terraform, Ansible, and CI/CD fundamentals.
 
 I enjoy building practical infrastructure and automation projects, troubleshooting systems, and learning how applications move from development to reliable production environments.
 
