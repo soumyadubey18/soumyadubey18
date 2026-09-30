@@ -1,40 +1,147 @@
-# 💫 About Me:
-I’m a Software Developer transitioning into Cloud & DevOps, with hands-on experience in AWS, Linux, Python, Git/GitHub, Docker, Terraform, Ansible, and CI/CD fundamentals.
+# 💫 About Me
 
-I enjoy building practical infrastructure and automation projects, troubleshooting systems, and learning how applications move from development to reliable production environments.
+Hi, I'm **Soumya Dubey** — a Software Developer transitioning into **Cloud & DevOps**, with hands-on experience in **AWS, Linux, Python, Bash, Git/GitHub, Docker, Terraform, and GitHub Actions**.
 
-Currently working on INFRAFORENSICS, an infrastructure state reconstruction and incident-forensics project focused on infrastructure history, change detection, and Infrastructure DNA.
+I enjoy building practical infrastructure and automation projects, troubleshooting systems, and understanding how applications move from development to reliable production environments.
 
-Tech I work with:
-AWS Linux Python Bash Git GitHub Docker Terraform GitHub Actions React Node.js REST APIs SQLite
+🚀 Currently building **INFRAFORENSICS**, an infrastructure state reconstruction and incident-forensics platform focused on infrastructure history, change detection, Infrastructure DNA, and incident analysis.
 
-🎯 Goal: Build reliable, observable, and automation-driven infrastructure while growing toward a Cloud/DevOps/SRE role.
+💻 I also bring professional software development experience with **React.js, Node.js, Express.js, REST APIs, application troubleshooting, API testing, and defect investigation**.
+
+### ☁️ Current Focus
+
+- AWS Cloud & Infrastructure
+- Linux & Bash
+- Docker & CI/CD
+- Terraform & Infrastructure as Code
+- Git & GitHub
+- Python Automation
+- Cloud Support
+- DevOps & SRE Fundamentals
+
+### 🎯 Career Goal
+
+To build reliable, observable, and automation-driven infrastructure while growing into a **Cloud / DevOps / SRE** role.
 
 
-## 🌐 Socials:
-[![LinkedIn](www.linkedin.com/in/soumya-dubey-752aa8185)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dubeysoumya8@gmail.com) 
+## 🌐 Connect With Me
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=soumyadubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=soumyadubey18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=soumyadubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumya%20Dubey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumya-dubey-752aa8185/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soumyadubey18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Email](https://img.shields.io/badge/Email-dubeysoumya18%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeysoumya18@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=netlify)](https://soumyadubeyportfolio.netlify.app/)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=soumyadubey18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub](https://img.shields.io/badge/GitHub-soumyadubey18-black?style=for-the-badge&logo=github)](https://github.com/soumyadubey18)
+
+
+# ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+# 💻 Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+# 🗄️ Databases & Tools
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+# 🚀 Featured Projects
+
+### 🔍 INFRAFORENSICS
+**Infrastructure State Reconstruction & Incident Forensics Platform**
+
+A Python-based infrastructure forensics platform that captures system state over time, stores historical snapshots, generates Infrastructure DNA fingerprints, detects infrastructure changes, and classifies changes by severity.
+
+**Tech:** Python • psutil • SQLite • Git • GitHub
 
 ---
-[![](https://komarev.com/ghpvc/?username=soumyadubey18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/soumyadubey) 
+### 🐳 Dockerized Website CI/CD
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Containerized a static website and created an automated CI/CD workflow using GitHub Actions, AWS ECR, Docker, and EC2.
+
+**Tech:** Docker • GitHub Actions • AWS ECR • AWS EC2
+
+---
+
+### 🏗️ AWS Infrastructure Provisioning with Terraform
+
+Provisioned AWS infrastructure using Terraform, including EC2 and S3 resources, variables, Terraform state, and SSH-based server access.
+
+**Tech:** Terraform • AWS EC2 • AWS S3 • SSH
+
+---
+
+### ☁️ AWS EC2 Linux Web Server
+
+Built and configured a Linux-based web server on AWS EC2 using Apache/httpd, Security Groups, SSH, and EBS storage.
+
+**Tech:** AWS EC2 • Linux • Apache • EBS
+
+---
+
+### 🏫 Smart Institute Attendance System
+
+Developed a Flask-based attendance application with SQLite, duplicate attendance prevention, and institute network/IP restrictions.
+
+**Tech:** Python • Flask • SQLite
+
+---
+
+### 🎓 Training & Placement Management System
+
+Full-stack application for managing students, batches, attendance, mock tests, interviews, projects, companies, and placement applications.
+
+**Tech:** React • TypeScript • Node.js • Express.js • Prisma • SQLite
+
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=soumyadubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=soumyadubey18&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=soumyadubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=soumyadubey18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=soumyadubey18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+---
+
+![](https://komarev.com/ghpvc/?username=soumyadubey18&icon=0&color=0)
