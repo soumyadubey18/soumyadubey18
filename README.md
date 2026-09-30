@@ -28,7 +28,7 @@ To build reliable, observable, and automation-driven infrastructure while growin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumya%20Dubey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumya-dubey-752aa8185/)
 
-[![Email](https://img.shields.io/badge/Email-dubeysoumya18%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeysoumya18@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dubeysoumya8%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeysoumya18@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=netlify)](https://soumyadubeyportfolio.netlify.app/)
 
