@@ -142,6 +142,6 @@ Full-stack application for managing students, batches, attendance, mock tests, i
 ![](https://github-contributor-stats.vercel.app/api?username=soumyadubey18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
----
+----
 
 ![](https://komarev.com/ghpvc/?username=soumyadubey18&icon=0&color=0)
