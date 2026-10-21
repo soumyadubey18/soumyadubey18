@@ -1,41 +1,39 @@
-# 💫 About Me
+# 👋 About Me
 
-Hi, I'm **Soumya Dubey** — a Software Developer transitioning into **Cloud & DevOps**, with hands-on experience in **AWS, Linux, Python, Bash, Git/GitHub, Docker, Terraform, and GitHub Actions**.
+Hi, I'm **Soumya Dubey** — a Software Developer transitioning into **Cloud Engineering, DevOps, and Site Reliability Engineering (SRE)**.
 
-I enjoy building practical infrastructure and automation projects, troubleshooting systems, and understanding how applications move from development to reliable production environments.
+I have professional software development experience and hands-on practice with AWS, Linux, Python, Bash, Docker, Terraform, Git/GitHub, and GitHub Actions. I enjoy automating workflows, troubleshooting systems, provisioning infrastructure, and understanding how applications are deployed and maintained reliably.
 
-🚀 Currently building **INFRAFORENSICS**, an infrastructure state reconstruction and incident-forensics platform focused on infrastructure history, change detection, Infrastructure DNA, and incident analysis.
+🚀 I'm currently building **INFRAFORENSICS**, a Python-based infrastructure state reconstruction and incident-forensics platform focused on historical snapshots, infrastructure change detection, Infrastructure DNA fingerprints, and incident analysis.
 
-💻 I also bring professional software development experience with **React.js, Node.js, Express.js, REST APIs, application troubleshooting, API testing, and defect investigation**.
+💻 My software development background includes React.js, Node.js, Express.js, REST APIs, API testing, debugging, and defect investigation.
 
-### ☁️ Current Focus
+## ☁️ Current Focus
 
-- AWS Cloud & Infrastructure
-- Linux & Bash
-- Docker & CI/CD
-- Terraform & Infrastructure as Code
-- Git & GitHub
+- AWS Cloud and Infrastructure
+- Linux Administration and Bash Scripting
+- Docker and Containerization
+- Terraform and Infrastructure as Code (IaC)
+- Git, GitHub, and CI/CD with GitHub Actions
 - Python Automation
-- Cloud Support
-- DevOps & SRE Fundamentals
+- Cloud Support and Infrastructure Troubleshooting
+- DevOps and SRE Fundamentals
 
-### 🎯 Career Goal
+## 🎯 Career Goal
 
-To build reliable, observable, and automation-driven infrastructure while growing into a **Cloud / DevOps / SRE** role.
-
+To build reliable, secure, and automation-driven infrastructure while growing into an **Associate Cloud Engineer, Junior DevOps Engineer, Cloud Support Engineer, or SRE** role.
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumya%20Dubey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumya-dubey-752aa8185/)
 
-[![Email](https://img.shields.io/badge/Email-dubeysoumya8%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeysoumya18@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeysoumya8@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=netlify)](https://soumyadubeyportfolio.netlify.app/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-soumyadubey18-black?style=for-the-badge&logo=github)](https://github.com/soumyadubey18)
 
-
-# ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -46,8 +44,7 @@ To build reliable, observable, and automation-driven infrastructure while growin
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
-# 💻 Development
+## 💻 Programming & Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -58,8 +55,7 @@ To build reliable, observable, and automation-driven infrastructure while growin
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-# 🗄️ Databases & Tools
+## 🗄️ Databases & Tools
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -67,58 +63,46 @@ To build reliable, observable, and automation-driven infrastructure while growin
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔍 INFRAFORENSICS
 **Infrastructure State Reconstruction & Incident Forensics Platform**
 
-A Python-based infrastructure forensics platform that captures system state over time, stores historical snapshots, generates Infrastructure DNA fingerprints, detects infrastructure changes, and classifies changes by severity.
+A Python-based platform designed to capture infrastructure state over time, store historical snapshots, generate Infrastructure DNA fingerprints, detect changes, and support incident analysis.
 
-**Tech:** Python • psutil • SQLite • Git • GitHub
-
----
+**Tech:** Python · psutil · SQLite · Git · GitHub
 
 ### 🐳 Dockerized Website CI/CD
 
 Containerized a static website and created an automated CI/CD workflow using GitHub Actions, AWS ECR, Docker, and EC2.
 
-**Tech:** Docker • GitHub Actions • AWS ECR • AWS EC2
-
----
+**Tech:** Docker · GitHub Actions · AWS ECR · AWS EC2
 
 ### 🏗️ AWS Infrastructure Provisioning with Terraform
 
 Provisioned AWS infrastructure using Terraform, including EC2 and S3 resources, variables, Terraform state, and SSH-based server access.
 
-**Tech:** Terraform • AWS EC2 • AWS S3 • SSH
-
----
+**Tech:** Terraform · AWS EC2 · AWS S3 · SSH
 
 ### ☁️ AWS EC2 Linux Web Server
 
-Built and configured a Linux-based web server on AWS EC2 using Apache/httpd, Security Groups, SSH, and EBS storage.
+Configured a Linux-based web server on AWS EC2 using Apache/httpd, Security Groups, SSH, and EBS storage.
 
-**Tech:** AWS EC2 • Linux • Apache • EBS
-
----
+**Tech:** AWS EC2 · Linux · Apache · EBS
 
 ### 🏫 Smart Institute Attendance System
 
 Developed a Flask-based attendance application with SQLite, duplicate attendance prevention, and institute network/IP restrictions.
 
-**Tech:** Python • Flask • SQLite
-
----
+**Tech:** Python · Flask · SQLite
 
 ### 🎓 Training & Placement Management System
 
-Full-stack application for managing students, batches, attendance, mock tests, interviews, projects, companies, and placement applications.
+Built a full-stack application for managing students, batches, attendance, mock tests, interviews, projects, companies, and placement applications.
 
-**Tech:** React • TypeScript • Node.js • Express.js • Prisma • SQLite
+**Tech:** React · TypeScript · Node.js · Express.js · Prisma · SQLite
 
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=soumyadubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -126,22 +110,18 @@ Full-stack application for managing students, batches, attendance, mock tests, i
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=soumyadubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=soumyadubey18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=soumyadubey18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-----
+---
 
 ![](https://komarev.com/ghpvc/?username=soumyadubey18&icon=0&color=0)
